@@ -1,5 +1,5 @@
 
-=== Mon Sep 20 09:57:57 2021
+=== Sat Sep 25 01:44:45 2021
 
 Packages were changed.
 Update Mode: resetToDefaultDependencies
@@ -45,16 +45,16 @@ The following packages were added:
   com.unity.timeline@1.4.8
   com.unity.ugui@1.0.0
 
-=== Mon Sep 20 09:59:05 2021
+=== Sat Sep 25 01:45:36 2021
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
 
 The following packages were added:
   com.unity.2d.sprite@1.0.0
-  com.unity.cinemachine@2.6.5
-  com.unity.connect.share@4.1.1
-  com.unity.learn.iet-framework@1.2.3
-  com.unity.lego.materials@2.2.0
-  com.unity.lego.modelimporter@5.0.1
-  com.unity.settings-manager@1.0.3
+  com.unity.2d.tilemap@1.0.0
+  com.unity.ads@3.6.1
+  com.unity.analytics@3.5.3
+  com.unity.postprocessing@3.0.3
+  com.unity.purchasing@2.2.2
+  com.unity.xr.legacyinputhelpers@2.1.7

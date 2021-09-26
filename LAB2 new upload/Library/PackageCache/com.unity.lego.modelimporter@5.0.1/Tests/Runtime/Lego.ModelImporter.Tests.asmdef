@@ -1,9 +1,10 @@
 {
-    "name": "Lego.ModelImporter.Tests",
+    "name": "UnityEngine.Purchasing.RuntimeTests",
     "references": [
-        "LEGO.ModelImporter",
-        "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEngine.Purchasing"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

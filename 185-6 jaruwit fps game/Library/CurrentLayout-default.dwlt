@@ -48,8 +48,18 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 66
 --- !u!114 &3
+=======
+<<<<<<< HEAD:LAB2 new upload/Library/CurrentLayout-default.dwlt
+  controlID: 92
+--- !u!114 &4
+=======
+  controlID: 66
+--- !u!114 &3
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f:185-6 jaruwit fps game/Library/CurrentLayout-default.dwlt
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -226,8 +236,18 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 74
 --- !u!114 &10
+=======
+<<<<<<< HEAD:LAB2 new upload/Library/CurrentLayout-default.dwlt
+  controlID: 93
+--- !u!114 &11
+=======
+  controlID: 74
+--- !u!114 &10
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f:185-6 jaruwit fps game/Library/CurrentLayout-default.dwlt
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -251,8 +271,18 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 75
 --- !u!114 &11
+=======
+<<<<<<< HEAD:LAB2 new upload/Library/CurrentLayout-default.dwlt
+  controlID: 94
+--- !u!114 &12
+=======
+  controlID: 75
+--- !u!114 &11
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f:185-6 jaruwit fps game/Library/CurrentLayout-default.dwlt
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -330,10 +360,23 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:LAB2 new upload/Library/CurrentLayout-default.dwlt
+    scrollPos: {x: 0, y: 76}
+    m_SelectedIDs: 50b90100
+    m_LastClickedID: 112976
+    m_ExpandedIDs: 0000000050b9010052b9010054b9010056b9010058b901005ab901005cb901005eb9010060b9010062b9010064b9010000ca9a3b
+=======
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f
     scrollPos: {x: 0, y: 14}
     m_SelectedIDs: 944e0000
     m_LastClickedID: 20116
     m_ExpandedIDs: 000000008c4d00008e4d0000b44d0000864e000000ca9a3b
+<<<<<<< HEAD
+=======
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f:185-6 jaruwit fps game/Library/CurrentLayout-default.dwlt
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +404,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000008c4d00008e4d0000904d0000
+=======
+<<<<<<< HEAD:LAB2 new upload/Library/CurrentLayout-default.dwlt
+    m_ExpandedIDs: 0000000050b9010052b9010054b9010056b9010058b901005ab901005cb901005eb9010060b9010062b9010064b90100
+=======
+    m_ExpandedIDs: 000000008c4d00008e4d0000904d0000
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f:185-6 jaruwit fps game/Library/CurrentLayout-default.dwlt
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -486,7 +537,15 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: d05e0000
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 20fbffff
+=======
+<<<<<<< HEAD:LAB2 new upload/Library/CurrentLayout-default.dwlt
+      m_ExpandedIDs: 522bfcff942bfcffb42bfcffee2dfcff0a2ffcff2830fcff3630fcff4219feff52fbffff
+=======
+      m_ExpandedIDs: 20fbffff
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f:185-6 jaruwit fps game/Library/CurrentLayout-default.dwlt
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -547,9 +606,21 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
+=======
+<<<<<<< HEAD:LAB2 new upload/Library/CurrentLayout-default.dwlt
+    m_Target: {x: 243.37122, y: 15.644018, z: -62.91041}
+    speed: 2
+    m_Value: {x: 243.37122, y: 15.644018, z: -62.91041}
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f:185-6 jaruwit fps game/Library/CurrentLayout-default.dwlt
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -596,6 +667,18 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:LAB2 new upload/Library/CurrentLayout-default.dwlt
+    m_Target: {x: 0.20837252, y: -0.6078426, z: 0.16950491, w: 0.747252}
+    speed: 2
+    m_Value: {x: 0.20837158, y: -0.6078399, z: 0.16950414, w: 0.7472486}
+  m_Size:
+    m_Target: 5.3002687
+    speed: 2
+    m_Value: 5.3002687
+=======
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f
     m_Target: {x: -0.09052303, y: 0.8949961, z: -0.21221158, w: -0.38177782}
     speed: 2
     m_Value: {x: -0.090523005, y: 0.89499587, z: -0.21221153, w: -0.38177773}
@@ -603,6 +686,10 @@ MonoBehaviour:
     m_Target: 7.1540856
     speed: 2
     m_Value: 7.491189
+<<<<<<< HEAD
+=======
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f:185-6 jaruwit fps game/Library/CurrentLayout-default.dwlt
+>>>>>>> 59367f5d35b4146b4c6369c9bdf727c19057d47f
   m_Ortho:
     m_Target: 0
     speed: 2

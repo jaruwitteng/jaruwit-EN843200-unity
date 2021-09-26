@@ -1,5 +1,5 @@
 {
-    "name": "Unity.EditorCoroutines.Editor",
+    "name": "UnityEngine.Advertisements.Editor",
     "references": [],
     "optionalUnityReferences": [],
     "includePlatforms": [

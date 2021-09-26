@@ -1,15 +1,19 @@
 {
-    "name": "Unity.InteractiveTutorials.Core.Tests",
-    "references": [],
+  "name": "UnityEditor.XR.LegacyInputHelpers.Tests",
+    "references": [
+        "UnityEditor.XR.LegacyInputHelpers"   
+    ],
     "optionalUnityReferences": [
         "TestAssemblies"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
-    "autoReferenced": false,
+    "autoReferenced": true,
     "defineConstraints": [
         "UNITY_INCLUDE_TESTS"
     ]

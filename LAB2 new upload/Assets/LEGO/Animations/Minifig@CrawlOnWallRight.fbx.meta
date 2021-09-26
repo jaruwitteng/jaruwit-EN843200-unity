@@ -1,12 +1,137 @@
 fileFormatVersion: 2
-guid: 34eff1f53aa0f49d891dcfab42076c17
+guid: 9304243fe1189b54ea64d4d1d19736c3
 ModelImporter:
-  serializedVersion: 19300
+  serializedVersion: 20101
   internalIDToNameTable:
   - first:
-      74: 1827226128182048838
-    second: CrawlOnWallRight
-  externalObjects: {}
+      1: 100000
+    second: BloodCell
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Body
+  - first:
+      1: 100006
+    second: BodyCenter
+  - first:
+      1: 100008
+    second: BodyLeft
+  - first:
+      1: 100010
+    second: BodyRight
+  - first:
+      1: 100012
+    second: LeftEye
+  - first:
+      1: 100014
+    second: LeftEyeLidDown
+  - first:
+      1: 100016
+    second: LeftEyelidUp
+  - first:
+      1: 100018
+    second: LeftHand
+  - first:
+      1: 100020
+    second: LeftHandEND
+  - first:
+      1: 100022
+    second: Mouth
+  - first:
+      1: 100024
+    second: RightEye
+  - first:
+      1: 100026
+    second: RightEyelidDown
+  - first:
+      1: 100028
+    second: RightEyeLidUp
+  - first:
+      1: 100030
+    second: RightHand
+  - first:
+      1: 100032
+    second: RightHandEND
+  - first:
+      1: 100034
+    second: Root
+  - first:
+      4: 400000
+    second: BloodCell
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: Body
+  - first:
+      4: 400006
+    second: BodyCenter
+  - first:
+      4: 400008
+    second: BodyLeft
+  - first:
+      4: 400010
+    second: BodyRight
+  - first:
+      4: 400012
+    second: LeftEye
+  - first:
+      4: 400014
+    second: LeftEyeLidDown
+  - first:
+      4: 400016
+    second: LeftEyelidUp
+  - first:
+      4: 400018
+    second: LeftHand
+  - first:
+      4: 400020
+    second: LeftHandEND
+  - first:
+      4: 400022
+    second: Mouth
+  - first:
+      4: 400024
+    second: RightEye
+  - first:
+      4: 400026
+    second: RightEyelidDown
+  - first:
+      4: 400028
+    second: RightEyeLidUp
+  - first:
+      4: 400030
+    second: RightHand
+  - first:
+      4: 400032
+    second: RightHandEND
+  - first:
+      4: 400034
+    second: Root
+  - first:
+      21: 2100000
+    second: 02 - Default
+  - first:
+      43: 4300000
+    second: BloodCell
+  - first:
+      74: 7400000
+    second: BloodCellIdle
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: BloodCell
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: c4a9819ff4c59a74ca60bbbb70426d6f, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -26,7 +151,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 0
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -35,11 +160,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: CrawlOnWallRight
+      name: BloodCellIdle
       takeName: Take 001
       internalID: 0
       firstFrame: 1
-      lastFrame: 20
+      lastFrame: 100
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -47,7 +172,7 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 1
-      loopBlend: 1
+      loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
@@ -63,7 +188,7 @@ ModelImporter:
       maskType: 3
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -75,11 +200,13 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
     skinWeightsMode: 0
     maxBonesPerVertex: 4
@@ -89,8 +216,11 @@ ModelImporter:
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -113,15 +243,16 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     globalScale: 1
-    rootMotionBoneName: 
+    rootMotionBoneName: Root
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 8226672356b74174cbe023b9736222f5,
+    type: 3}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 2
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,6 +1,9 @@
 {
-    "name": "Unity.InteractiveTutorials.Core.Scripts",
-    "references": [],
+    "name": "UnityEngine.XR.LegacyInputHelpers",
+    "references": [
+      "UnityEngine.SpatialTracking",
+      "Windows.UI.Input.Spatial"
+    ],
     "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],

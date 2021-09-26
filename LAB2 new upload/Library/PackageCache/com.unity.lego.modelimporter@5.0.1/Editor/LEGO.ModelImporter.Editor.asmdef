@@ -1,10 +1,7 @@
 {
-    "name": "LEGO.ModelImporter.Editor",
-    "rootNamespace": "",
+    "name": "UnityEditor.SpatialTracking",
     "references": [
-        "LEGO.ModelImporter",
-        "Lego.Materials",
-        "Lego.Materials.Editor"
+        "UnityEngine.SpatialTracking"
     ],
     "includePlatforms": [
         "Editor"
@@ -15,6 +12,11 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.management",
+            "expression": "1.0.0",
+            "define": "XR_MANAGEMENT"
+        }
+    ]
 }

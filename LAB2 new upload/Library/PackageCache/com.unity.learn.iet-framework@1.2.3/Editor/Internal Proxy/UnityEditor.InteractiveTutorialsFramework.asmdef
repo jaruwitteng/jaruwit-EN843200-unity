@@ -1,6 +1,8 @@
 {
-    "name": "UnityEditor.InteractiveTutorialsFramework",
-    "references": [],
+    "name": "Unity.Postprocessing.Editor",
+    "references": [
+        "Unity.Postprocessing.Runtime"
+    ],
     "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"

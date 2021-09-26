@@ -1,8 +1,7 @@
 {
-    "name": "com.unity.cinemachine.EditorTests",
+    "name": "Unity.2D.Tilemap.Package.EditorTests",
     "references": [
-        "Cinemachine",
-        "com.unity.cinemachine.editor"
+        "Unity.2D.Tilemap.Editor"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

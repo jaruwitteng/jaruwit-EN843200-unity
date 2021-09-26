@@ -1,10 +1,7 @@
 {
-    "name": "Unity.Settings.Tests",
+    "name": "UnityEngine.Monetization.Editor.Tests",
     "references": [
-        "Unity.Settings.Editor"
-    ],
-    "defineConstraints": [
-        "UNITY_INCLUDE_TESTS"
+        "UnityEngine.Monetization"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"
@@ -17,6 +14,7 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": []
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ]
 }

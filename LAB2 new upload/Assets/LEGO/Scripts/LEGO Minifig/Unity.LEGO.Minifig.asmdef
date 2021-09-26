@@ -1,15 +1,16 @@
 {
-    "name": "Unity.LEGO.Minifig",
+    "name": "UnityEngine.Monetization",
     "references": [
-        "GUID:7f7d1af65c2641843945d409d28f2e20"
+        "UnityEngine.Advertisements"
     ],
+    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
+    "defineConstraints": [
+        "!ADS_ASSET_STORE_PACKAGE_DETECTED"
+    ]
 }

@@ -1,9 +1,7 @@
 {
-    "name": "Unity.Settings.Example",
+    "name": "Unity.2D.Tilemap.Editor",
     "references": [
-        "Unity.Settings.Editor"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
     ],
@@ -11,6 +9,6 @@
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
-    "autoReferenced": false,
+    "autoReferenced": true,
     "defineConstraints": []
 }

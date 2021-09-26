@@ -1,10 +1,11 @@
 {
-    "name": "Lego.ModelImporter.Editor.Tests",
+    "name": "UnityEditor.Purchasing.EditorTests",
     "references": [
-        "LEGO.ModelImporter.Editor",
-        "LEGO.ModelImporter",
-        "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEditor.Purchasing",
+        "UnityEngine.Purchasing"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
     ],
     "includePlatforms": [
         "Editor"
