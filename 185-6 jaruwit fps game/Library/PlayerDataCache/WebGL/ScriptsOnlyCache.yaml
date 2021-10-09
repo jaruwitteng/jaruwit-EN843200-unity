@@ -1,7 +1,5 @@
 ScriptsOnlyBuild:
   usedScripts:
-    Assembly-CSharp-Editor.dll:
-    - ReadmeEditor
     Assembly-CSharp.dll:
     - CameraShaker
     - Controller
@@ -27,7 +25,6 @@ ScriptsOnlyBuild:
     - PauseMenu
     - Projectile
     - RandomPlayer
-    - Readme
     - RestartLevel
     - StartCheckpoint
     - Target
