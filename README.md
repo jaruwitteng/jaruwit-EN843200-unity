@@ -9,8 +9,11 @@ part 3 : web build : https://play.unity.com/mg/other/lab5-prob3-623040185-6 <br>
          video : https://github.com/jaruwitteng/jaruwit-EN843200-unity/blob/main/lab5v2/prob3/video/lab5part3.mp4 <br>
          
 <br>
-<h1> LAB5  </h1>
+<h1> LAB6  </h1>
 <h4> Prob1 </h4><br>
 webbuild :  <br>
 image:  <br>
 
+<h4> Prob2 </h4><br>
+lab6p2p1:  <br>
+lab6p2p2: <br>
