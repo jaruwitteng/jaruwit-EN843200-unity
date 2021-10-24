@@ -11,7 +11,7 @@ part 3 : web build : https://play.unity.com/mg/other/lab5-prob3-623040185-6 <br>
 <br>
 <h1> LAB6  </h1>
 <h4> Prob1 </h4><br>
-webbuild :  <br>
+webbuild :https://play.unity.com/mg/other/185-6-lab6-prob1  <br>
 image:  <br>
 
 <h4> Prob2 </h4><br>
