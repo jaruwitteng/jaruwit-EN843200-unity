@@ -17,3 +17,6 @@ image: https://github.com/jaruwitteng/jaruwit-EN843200-unity/tree/main/lab6/prob
 <h4> Prob2 </h4><br>
 lab6p2p1: https://github.com/jaruwitteng/jaruwit-EN843200-unity/blob/main/lab6/prob2/lab6p2p1.mp4 <br>
 lab6p2p2:https://github.com/jaruwitteng/jaruwit-EN843200-unity/blob/main/lab6/prob2/lab6p2p2.mp4 <br>
+
+<h1> LAB7 </h1><br>
+https://youtu.be/MRBrK5z_WMk
